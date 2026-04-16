@@ -6,12 +6,25 @@ This project focuses on analyzing customer purchase behavior and product perform
 
 ---
 
+## 📊 Analysis Workflow
+1. Data Cleaning
+2. Exploratory Data Analysis (EDA)
+3. SQL Query Analysis
+4. Visualization (Python/Power BI)
+
+---
+
 ## 🎯 Objectives
 
 * Analyze customer purchasing patterns
 * Identify top-selling products
 * Understand the impact of discounts on sales
 * Explore category-wise performance
+
+---
+
+## 💼 Business Problem
+The objective is to analyze customer purchasing behavior and product performance to help improve sales strategy, pricing decisions, and customer engagement.
 
 ---
 
